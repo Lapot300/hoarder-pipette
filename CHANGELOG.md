@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.6.4](https://github.com/DanSnow/hoarder-pipette/compare/hoarder-pipette-v1.6.3...hoarder-pipette-v1.6.4) (2026-04-26)
+
+
+### Bug Fixes
+
+* it show fetch error about using disconnecting port ([#1319](https://github.com/DanSnow/hoarder-pipette/issues/1319)) ([1b559f9](https://github.com/DanSnow/hoarder-pipette/commit/1b559f9a5370c21a2b35c367774c850d11685e37))
+* **search:** use minimal bookmark schema to avoid output validation errors ([#1439](https://github.com/DanSnow/hoarder-pipette/issues/1439)) ([308b897](https://github.com/DanSnow/hoarder-pipette/commit/308b89738cbb61420399068fcd98fa948df5f557))
+
 ## [1.6.3](https://github.com/DanSnow/hoarder-pipette/compare/hoarder-pipette-v1.6.2...hoarder-pipette-v1.6.3) (2026-01-18)
 
 
